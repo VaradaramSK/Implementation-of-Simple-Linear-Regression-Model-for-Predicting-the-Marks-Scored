@@ -91,9 +91,11 @@ print("RMSE= ",rmse)
 ![image](https://github.com/VaradaramSK/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144356171/6aa7580b-8038-43c2-b284-6e97bcac592a)
 
 ### Training Set
+![image](https://github.com/VaradaramSK/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144356171/733bd3eb-47fa-42b4-9dee-c254afd49a82)
 
 ### Testing Set
-![output](./images/test.png)
+![image](https://github.com/VaradaramSK/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144356171/f66ba304-47c5-4b79-ac3b-f96ea6c3e7c2)
+
 
 
 ## Result:
