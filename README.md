@@ -73,19 +73,25 @@ print("RMSE= ",rmse)
 
 ## Output:
 ### Dataset
-![output](./images/dataset.png)
+![image](https://github.com/VaradaramSK/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144356171/44997e4d-7fca-4798-8e30-12d289fce4ce)
+
 ### Head Values
-![output](./images/head.png)
+![image](https://github.com/VaradaramSK/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144356171/f666c6e4-8429-497a-9ddf-45621bc30e3a)
+
 ### Tail Values
-![output](./images/tail.png)
+![image](https://github.com/VaradaramSK/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144356171/9b197770-8dae-438e-90fe-da2b35ab710c)
+
 ### X and Y values
-![output](./images/xyvalues.png)
+![image](https://github.com/VaradaramSK/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144356171/3117a5ea-4efd-4e25-8d61-32ba28cced05)
+
 ### Predication values of X and Y
-![output](./images/predict%20.png)
+![image](https://github.com/VaradaramSK/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144356171/a8d2c938-2965-4cf5-a621-559f04b401c5)
+
 ### MSE,MAE and RMSE
-![output](./images/values.png)
+![image](https://github.com/VaradaramSK/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/144356171/6aa7580b-8038-43c2-b284-6e97bcac592a)
+
 ### Training Set
-![output](./images/train.png)
+
 ### Testing Set
 ![output](./images/test.png)
 
